@@ -45,7 +45,7 @@
 
 ## 📢 스터디 규칙 (1차 임시)
 ### 🤔 문제 해결
-1. 프로그래머스 코딩테스트 고득점 Kit의 종류별 1단계 문제를 해결합니다.
+1. 프로그래머스 코딩테스트 고득점 Kit의 종류별 문제를 해결합니다.
    1. 문제를 해결하지 못했을 경우에는 인터넷 검색 혹은 LLM의 힘을 빌립니다.
    2. 그런 다음, 알고리즘과 문제 해결을 이해하고 문제 해결을 풀이하는 글을 마크다운(.md) 혹은 블로그에 작성해둡니다.
    3. 별개로, 해결한 문제에 대한 풀이는 마크다운(.md) 혹은 블로그에 가능한 한 작성해둡니다. (선택형)
@@ -55,7 +55,7 @@
 5. 매주 목요일은 문제를 발표하는 날입니다.
    1. 각자 최소 1문제 이상 발표를 목표로 합니다.
    2. 자신이 풀이한 문제를 이해한 상태에서 발표를 진행해야 합니다.
-   3. 첫주의 경우, 모든 게 모호한 상황이므로 수요일 막바지에 뽑기로 각 1단계 문제별로 발표할 사람을 정합니다.
+   3. 첫주의 경우, 모든 게 모호한 상황이므로 수요일 막바지에 뽑기로 각 문제별로 발표할 사람을 정합니다.
 6. 목요일 발표 전까지 PR을 완료합시다.
    1. 매주 순서대로 상대방의 코드를 확인합니다.
    2. 확인 후 상대방의 코드에 반응 혹은 피드백하고 PR을 머지합니다.
@@ -162,12 +162,28 @@ git commit -m "해당 주차 / [FIXED][플랫폼 약어] 문제명 / 소요 시�
 
 ## 💻 문제 기록
 <details markdown="1">
-<summary><strong> 💾 [4주차] 프로그래머스 - ??? </summary></strong>
+<summary><strong> 💾 [5주차] 프로그래머스 - ??? </summary></strong>
 <br>
 
 | 알고리즘 | 문제 | 레벨 | URL |
 | :--: | :--: | :--: | :--: |
 | ??? | ??? | 2 | ??? |
+
+</details>
+
+----------
+
+<details markdown="1">
+<summary><strong> 💾 [4주차] 프로그래머스 - 코딩테스트 고득점 Kit 2단계 </summary></strong>
+<br>
+
+| 알고리즘 | 문제 | 레벨 | URL |
+| :--: | :--: | :--: | :--: |
+| 완전탐색 | 소수 찾기 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42839 |
+| 완전탐색 | 카펫 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42842 |
+| 완전탐색 | 피로도 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/87946 |
+| 완전탐색 | 전력망을 둘로 나누기 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/86971 |
+| 완전탐색 | 모음사전 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/84512 |
 
 </details>
 
