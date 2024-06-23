@@ -174,7 +174,7 @@ git commit -m "해당 주차 / [FIXED][플랫폼 약어] 문제명 / 소요 시�
 ----------
 
 <details markdown="1">
-<summary><strong> 💾 [5주차] 프로그래머스 - ??? </summary></strong>
+<summary><strong> 💾 [5주차] 프로그래머스 - 코딩테스트 고득점 Kit 2단계 </summary></strong>
 <br>
 
 | 알고리즘 | 문제 | 레벨 | URL |
