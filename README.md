@@ -179,7 +179,7 @@ git commit -m "해당 주차 / [FIXED][플랫폼 약어] 문제명 / 소요 시�
 
 | 알고리즘 | 문제 | 레벨 | URL |
 | :--: | :--: | :--: | :--: |
-| 탐욕법(Greedy) | 체육복 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42862 |
+| 탐욕법(Greedy) | 구명보트 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42885 |
 | 탐욕법(Greedy) | 조이스틱 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42860 |
 | 탐욕법(Greedy) | 큰 수 만들기 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/42883 |
 | 깊이/너비 우선 탐색(DFS/BFS) | 타겟 넘버 | 2 | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
