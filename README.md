@@ -162,12 +162,28 @@ git commit -m "해당 주차 / [FIXED][플랫폼 약어] 문제명 / 소요 시�
 
 ## 💻 문제 기록
 <details markdown="1">
-<summary><strong> 💾 [6주차] 프로그래머스 - ??? </summary></strong>
+<summary><strong> 💾 [?주차] 프로그래머스 - ??? </summary></strong>
 <br>
 
 | 알고리즘 | 문제 | 레벨 | URL |
 | :--: | :--: | :--: | :--: |
 | ??? | ??? | 2 | ??? |
+
+</details>
+
+----------
+
+<details markdown="1">
+<summary><strong> 💾 [6주차] 프로그래머스 - 코딩테스트 고득점 Kit 3단계 </summary></strong>
+<br>
+
+| 알고리즘 | 문제 | 레벨 | URL |
+| :--: | :--: | :--: | :--: |
+| 해시 | 베스트앨범 | 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42579 |
+| 힙(Heap) | 디스크 컨트롤러 | 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42627 |
+| 힙(Heap) | 이중우선순위큐 | 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42628 |
+| 탐욕법(Greedy) | 섬 연결하기 | 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42861 |
+| 탐욕법(Greedy) | 단속카메라 | 3 | https://school.programmers.co.kr/learn/courses/30/lessons/42884 |
 
 </details>
 
