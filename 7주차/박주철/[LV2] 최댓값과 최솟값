@@ -1,0 +1,4 @@
+// 1차 시도 (성공)
+function solution(s) {
+	return Math.min(...s.split(" ")) + " " + Math.max(...s.split(" "));
+}
