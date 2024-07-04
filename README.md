@@ -3,7 +3,7 @@
 
 - 기간: 2024년 5월 27일 ~ 모두가 취업할 때까지
 - 일정: 주 4회 예정, 최소 주 2회 이상 참석
-    -  문제 해결: 월요일, 화요일, 수요일
+    -  코어 타임: 월요일, 화요일, 수요일
     -  문제 발표: 목요일
     -  오후 3시 ~ 오후 6시 (변경될 수도 있음)
 - 사용 사이트: [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&languages=javascript) / [백준](https://www.acmicpc.net/step)
@@ -17,19 +17,15 @@
     <td align="center"><a href="https://github.com/espoiryoung"><img src="https://avatars.githubusercontent.com/u/80727081" width="50px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/gkstjgms"><img src="https://avatars.githubusercontent.com/u/55805522" width="50px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/haegu97"><img src="https://avatars.githubusercontent.com/u/108677235" width="50px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/moko0428"><img src="https://avatars.githubusercontent.com/u/39412219" width="50px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/jukrap"><img src="https://avatars.githubusercontent.com/u/11244617" width="50px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/murramge"><img src="https://avatars.githubusercontent.com/u/60298173" width="50px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/zyyyun"><img src="https://avatars.githubusercontent.com/u/115001774" width="50px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/espoiryoung"><b>전진영</b></a></td>
     <td align="center"><a href="https://github.com/gkstjgms"><b>한서흔</b></a></td>
     <td align="center"><a href="https://github.com/haegu97"><b>김선구</b></a></td>
-    <td align="center"><a href="https://github.com/moko0428"><b>이준영</b></a></td>
     <td align="center"><a href="https://github.com/jukrap"><b>박주철</b></a></td>
     <td align="center"><a href="https://github.com/murramge"><b>강은화</b></a></td>
-    <td align="center"><a href="https://github.com/zyyyun"><b>조윤서</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></td>
@@ -37,34 +33,31 @@
     <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></td>
   </tr> 
 </table>
 <br/>
 
-## 📢 스터디 규칙 (1차 임시)
+## 📢 스터디 규칙 (2차)
 ### 🤔 문제 해결
-1. 프로그래머스 코딩테스트 고득점 Kit의 종류별 문제를 해결합니다.
-   1. 문제를 해결하지 못했을 경우에는 인터넷 검색 혹은 LLM의 힘을 빌립니다.
+1. [스프레드시트 문제 모음](https://docs.google.com/spreadsheets/d/11cPbcdQovcSslYAIamWaSkR3JCMX11Jjtgdj1i0SBhY/edit?usp=sharing)에서 각 주차별 문제를 찾아 해결합니다.
+   1. 일주일에 1단계는 5문제, 2단계는 5문제(하루 각각 1문제) 푸는 걸 목표로 합니다.
+   2. 프로그래머스 코딩테스트 고득점 Kit에서 풀이한 문제는 제외입니다.
+2. 문제는 최대한 노력해서 해결합니다.
+   1. 만약 문제를 해결하지 못했을 경우에는 인터넷 검색 혹은 LLM의 힘을 빌립니다.
    2. 그런 다음, 알고리즘과 문제 해결을 이해하고 문제 해결을 풀이하는 글을 마크다운(.md) 혹은 블로그에 작성해둡니다.
    3. 별개로, 해결한 문제에 대한 풀이는 마크다운(.md) 혹은 블로그에 가능한 한 작성해둡니다. (선택형)
-2. 해결한 문제의 코드는 양식에 맞추어서 리포지토리에 올려둡니다.
-3. 문제를 해결하는 동안 화면 공유 혹은 카메라를 켜둡니다. (마이크와 사운드는 OFF 가능)
-4. 불참시에는 보이스 혹은 채팅으로 다른 분들께 미리 알려주세요!
-5. 매주 목요일은 문제를 발표하는 날입니다.
+3. 해결한 문제의 코드는 양식에 맞추어서 리포지토리에 올려둡니다.
+4. 문제를 해결하는 동안 화면 공유 혹은 카메라를 최대한 켜둡니다. (마이크와 사운드는 OFF 가능)
+5. 불참시에는 보이스 혹은 채팅으로 다른 분들께 미리 알려주세요!
+6. 매주 목요일은 문제를 발표하는 날입니다.
    1. 각자 최소 1문제 이상 발표를 목표로 합니다.
    2. 자신이 풀이한 문제를 이해한 상태에서 발표를 진행해야 합니다.
-   3. 첫주의 경우, 모든 게 모호한 상황이므로 수요일 막바지에 뽑기로 각 문제별로 발표할 사람을 정합니다.
-6. 목요일 발표 전까지 PR을 완료합시다.
-   1. 매주 순서대로 상대방의 코드를 확인합니다.
-   2. 확인 후 상대방의 코드에 반응 혹은 피드백하고 PR을 머지합니다.
-   3. <strong>[피드백 순서 스프레드시트 바로가기](https://docs.google.com/spreadsheets/d/1enOYnRr3T-MFvWaLJQ0gEaToxAmxymSP8yXep1Iz_jI/edit?usp=sharing)</strong>
+   3. 발표 순서와 발표할 문제는 무작위로 선정합니다.
 
 ### 👩‍🏫 문제 발표
 > 문제 발표는 문제 당 10분 이내로 진행합니다. 너무 길어지면 3시간을 넘길수도 있으니 주의합시다. <br>
 > 제대로 이해하지 못한 상태에서 발표를 진행할 경우, 중단하고 다음 시간에 다시 한 번 더 발표를 진행합니다.
-1. 문제 리뷰에 앞서 해당 문제의 알고리즘 개념을 설명합니다.
+1. 문제 리뷰에 앞서 해당 문제의 알고리즘 개념을 설명합니다. (선택형)
 2. 문제 풀이에 대한 접근 방식을 설명합니다. (선택형)
 3. 너무 길지 않게, 문제 해결에 사용된 코드에 대한 설명을 진행합니다.
 4. 시간 복잡도 및 공간 복잡도 계산을 진행합니다. 단, 어려울 경우 실행 시간 캡쳐를 보여줍니다.
@@ -82,8 +75,12 @@
 ### 🗃 스터디 작업
 - 세팅 방법
    1. `DevBob-Study` 리포지토리에서 개인영문명 브랜치를 생성합니다.
-   2. 해당 개인영문명 브랜치에서 문제별 폴더로 이동합니다.
-   3. 폴더 안에 본인 영문명으로 JS 파일을 생성하고 코드를 작성합니다.
+   2. 해당 개인영문명 브랜치에서 각 주차별 폴더로 이동합니다.
+   3. 주차별 폴더 안에 본인 이름으로 폴더를 생성합니다.
+   4. 그리고 본인 이름 폴더 안에 '[레벨단계] 문제명'으로 JS 파일을 생성하고 코드를 작성합니다.
+   5. 생성 예시
+      1. 7주차/홍길동/[LV1] 짝수와 홀수.js
+      2. 10주차/홍길순/[LV2] [1차] 캐시.js
 - main 브랜치 내용 가져오기
    1. DevBob-Study의 main 브랜치에 있는 내용을 가져오려면, main 브랜치의 갱신 이후 우측 상단에 생긴 `Sync fork`를 누릅니다.
    2. 그리고 `Update branch`를 눌러 갱신을 진행합니다.
@@ -162,12 +159,11 @@ git commit -m "해당 주차 / [FIXED][플랫폼 약어] 문제명 / 소요 시�
 
 ## 💻 문제 기록
 <details markdown="1">
-<summary><strong> 💾 [?주차] 프로그래머스 - ??? </summary></strong>
-<br>
+<summary><strong> 💾 [7주차 ~ 이후] 프로그래머스 - 1~2단계 문제 </summary></strong>
 
-| 알고리즘 | 문제 | 레벨 | URL |
-| :--: | :--: | :--: | :--: |
-| ??? | ??? | 2 | ??? |
+- 7주차부터는 프로그래머스 1~2단계 문제를 풀기로 합의
+- 아래의 스프레드시트 문제 모음에서 각 주차에 맞는 문제를 풀기
+- [스프레드시트 문제 모음](https://docs.google.com/spreadsheets/d/11cPbcdQovcSslYAIamWaSkR3JCMX11Jjtgdj1i0SBhY/edit?usp=sharing)
 
 </details>
 
