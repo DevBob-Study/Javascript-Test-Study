@@ -1,0 +1,8 @@
+function solution(s) {
+  let arr = s.split(" ");
+  console.log(arr);
+
+  console.log(Math.min(...arr) + " " + Math.max(...arr));
+
+  return Math.min(...arr) + " " + Math.max(...arr);
+}
