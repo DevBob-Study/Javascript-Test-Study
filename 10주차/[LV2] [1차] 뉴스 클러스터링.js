@@ -1,3 +1,4 @@
+// 1차 시도 (성공)
 function solution(str1, str2) {
   // 두 글자씩 끊어서 다중집합 만들기
   function makeSet(str) {
