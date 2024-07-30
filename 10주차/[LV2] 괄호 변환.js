@@ -1,3 +1,4 @@
+// 1차 시도 (성공)
 function solution(p) {
 	// 1. 입력이 빈 문자열인 경우, 빈 문자열을 반환
 	if (p === "") return "";
