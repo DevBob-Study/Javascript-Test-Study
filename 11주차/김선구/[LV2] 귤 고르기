@@ -1,0 +1,39 @@
+// 실패
+
+function solution(k, tangerine) {
+  let count_tangerine = [];
+  let set_tangerine = [...new Set(tangerine)];
+
+  for (const tang of set_tangerine) {
+    let cnt = tangerine.filter((t) => tang === t).length;
+    count_tangerine.push(cnt);
+  }
+
+  count_tangerine.sort((a, b) => b - a);
+
+  let sum = k;
+  let cnt = 0;
+  for (const t of count_tangerine) {
+    cnt++;
+    sum -= t;
+    if (sum <= 0) {
+      return cnt;
+    }
+  }
+}
+
+// 다른 사람 풀이
+function solution(k, tangerine) {
+  let answer = 0
+  const tangerine_map = {};
+
+  tangerine.forEach((t) => (tangerine_map[t] = (tangerine_map[t] || 0) + 1));
+  const tArr = Object.values(tangerine_map).sort((a, b) => b - a)
+  
+  for (const t of tArr) {
+  answer++;
+  if (k > t) k -= t;
+  else break;
+}
+  return answer
+}
