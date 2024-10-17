@@ -10,11 +10,10 @@ for (let i = 0; i < M + N; i++) {
 }
 
 const bfs = () => {
-  const q = [];
-  q.push(1);
+  const q = [1];
   visited[1] = true;
 
-  let moves = 0;
+  let cnt = 0;
 
   while (q.length) {
     let size = q.length;
@@ -22,7 +21,7 @@ const bfs = () => {
     for (let i = 0; i < size; i++) {
       const tmp = q.shift();
       if (tmp === 100) {
-        console.log(moves);
+        console.log(cnt);
         return;
       }
       for (let dice = 1; dice <= 6; dice++) {
@@ -35,7 +34,7 @@ const bfs = () => {
         }
       }
     }
-    moves++;
+    cnt++;
   }
 };
 
